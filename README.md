@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![app-walkthrough-gif](https://github.com/QAGatPurdue/Twitter_client/blob/master/ezgif.com-video-to-gif-2.gif)
+!(https://github.com/QAGatPurdue/Twitter_client/blob/master/ezgif.com-video-to-gif-2.gif)
