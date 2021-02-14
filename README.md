@@ -22,4 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![](https://github.com/QAGatPurdue/Twitter_client/blob/master/ezgif.com-video-to-gif-2.gif)
