@@ -21,8 +21,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-
-
+![](https://github.com/QAGatPurdue/Twitter_client/blob/master/ezgif.com-video-to-gif-3.gif)
 
 # Project 3 - *Twitter*
 
